@@ -5,4 +5,5 @@ Deleted body selector from css as it served no purpose.
 Deleted <p> selector from css as browser will default to 16px font and no other style is in this line.
 Moved class on img in main text blocks to before the links so that it was more clear what class they were in. 
 Added spacing and fixed indentions in order to make code more readable.
+Added alt tags to photos to allow for hover accessibility 
 Added a notes to each element for clarification.
